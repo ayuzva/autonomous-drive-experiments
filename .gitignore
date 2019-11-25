@@ -1,0 +1,8 @@
+#Not sure why yet
+.venv
+.vscode
+src/__pycache__/
+log.csv
+parsed.json
+#Lol not sharing credentials sorry
+cred/
